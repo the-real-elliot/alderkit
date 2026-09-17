@@ -19,3 +19,6 @@ ald.zip
 
 # Backup/source artifacts
 ald/ald.py.bak.*
+
+# Runtime state
+ald/config/state.json
