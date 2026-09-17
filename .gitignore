@@ -1,0 +1,21 @@
+__pycache__/
+*.pyc
+*.pyo
+*.log
+.env
+.venv/
+venv/
+
+ald/reports/*
+!ald/reports/.gitkeep
+
+/tmp/
+.DS_Store
+.idea/
+.vscode/
+
+# Local artifacts
+ald.zip
+
+# Backup/source artifacts
+ald/ald.py.bak.*
